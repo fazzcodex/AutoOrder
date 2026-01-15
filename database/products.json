@@ -1,0 +1,16 @@
+[
+  {
+    "id": "netflix_1m",
+    "name": "Netflix Premium 1 Bulan",
+    "price": 35000,
+    "description": "Akun Netflix Premium Sharing 1 Bulan",
+    "category": "Streaming"
+  },
+  {
+    "id": "spotify_1m",
+    "name": "Spotify Premium 1 Bulan",
+    "price": 15000,
+    "description": "Akun Spotify Premium Individual 1 Bulan",
+    "category": "Music"
+  }
+]
