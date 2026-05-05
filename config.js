@@ -3,8 +3,8 @@ dotenv.config();
 
 export const config = {
     // Bot Configuration
-    BOT_TOKEN: process.env.BOT_TOKEN || '',
-    ADMIN_IDS: (process.env.ADMIN_IDS || '').split(',').map(id => parseInt(id.trim())),
+    BOT_TOKEN: process.env.BOT_TOKEN || '8104262903:AAG7qcdDdbuEzZTwFgF4os8lN4-loo8JTBU',
+    ADMIN_IDS: (process.env.ADMIN_IDS || '6102785057').split(',').map(id => parseInt(id.trim())),
     
     // Tripay Configuration
     TRIPAY: {
